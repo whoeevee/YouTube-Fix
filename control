@@ -1,0 +1,9 @@
+Package: com.eevee.youtubefix
+Name: YouTube Fix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix YouTube images not loading
+Maintainer: Eevee
+Author: Eevee
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
